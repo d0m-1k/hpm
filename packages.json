@@ -2,8 +2,10 @@
   {
     "name": "brainfuck",
     "versions": [
-        {
-            "name": "1.0.0",
-            "download": "github.com/d0m-1k/brainfuck"
-        }
+      {
+        "name": "1.0.0",
+        "download": "github.com/d0m-1k/brainfuck"
+      }
     ]
+  }
+]
