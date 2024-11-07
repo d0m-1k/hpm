@@ -4,7 +4,7 @@
     "versions": [
       {
         "name": "1.0.0",
-        "download": "github.com/d0m-1k/brainfuck"
+        "manifest": "https://github.com/d0m-1k/house-packet-manager/raw/refs/heads/main/brainfuck/1.0.0/info.json"
       }
     ]
   }
