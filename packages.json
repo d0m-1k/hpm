@@ -4,11 +4,11 @@
     "versions": [
       {
         "name": "latest",
-        "manifest": "https://github.com/d0m-1k/house-packet-manager/raw/refs/heads/main/brainfuck/1.0.0/info.json"
+        "manifest": "https://raw.githubusercontent.com/d0m-1k/hpm/refs/heads/main/repo/brainfuck/1.0.0/info.json"
       },
       {
         "name": "1.0.0",
-        "manifest": "https://github.com/d0m-1k/house-packet-manager/raw/refs/heads/main/brainfuck/1.0.0/info.json"
+        "manifest": "https://raw.githubusercontent.com/d0m-1k/hpm/refs/heads/main/repo/brainfuck/1.0.0/info.json"
       }
     ]
   }
