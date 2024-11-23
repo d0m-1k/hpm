@@ -1,12 +1,6 @@
 [
   {
     "name": "brainfuck",
-    "latest": "1.0.0",
-    "versions": [
-      {
-        "name": "1.0.0",
-        "manifest": "https://raw.githubusercontent.com/d0m-1k/hpm/refs/heads/main/repo/brainfuck/1.0.0/info.json"
-      }
-    ]
+    "url": ""
   }
 ]
