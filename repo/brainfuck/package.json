@@ -5,6 +5,6 @@
   "termux-support": true,
   "latest": "1.0.0"
   "versions": [
-    {"name": "1.0.0", "url": ""}
+    {"name": "1.0.0", "url": "https://github.com/d0m-1k/hpm/raw/refs/heads/main/repo/brainfuck/1.0.0/info.json"}
   ]
 }
