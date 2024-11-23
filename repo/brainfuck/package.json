@@ -1,5 +1,8 @@
 {
   "name": "brainfuck",
+  "description": "brainfuck language",
+  "authors": ["hpm"],
+  "termux-support": true,
   "latest": "1.0.0"
   "versions": [
     {"name": "1.0.0", "url": ""}
