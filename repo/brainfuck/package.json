@@ -1,0 +1,7 @@
+{
+  "name": "brainfuck",
+  "latest": "1.0.0"
+  "versions": [
+    {"name": "1.0.0", "url": ""}
+  ]
+}
