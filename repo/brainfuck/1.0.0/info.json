@@ -1,5 +1,6 @@
 {
-  "bins": [
-    "https://github.com/d0m-1k/hpm/raw/refs/heads/main/repo/brainfuck/1.0.0/brainfuck"
-  ]
+  "install": {
+    "request": [],
+    "binaries": []
+  }
 }
